@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259660848900",
+    "project_id": "first-project-e4abf",
+    "storage_bucket": "first-project-e4abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259660848900:android:6192ca2b4ff86fbd9c3a51",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZklD5QhT2_Vclu9Ns-cEWj0w39503EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
